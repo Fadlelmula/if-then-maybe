@@ -47,10 +47,10 @@ Each folder is a checkpoint, not a monument. If something here looks unfinished,
 
 ```
 if-then-maybe/
-├── experiments/     # standalone tests of an idea
-├── systems/         # small tools, scripts, mechanisms
-├── notes/           # learning logs, written while learning
-└── archive/         # what didn't survive contact with reality
+├── experiments/     # small, self-contained questions in code
+├── prototypes/      # experiments growing into something more substantial
+├── notes/           # observations, learning logs, and decisions
+└── assets/          # images or files used by experiments
 ```
 
 *(structure will drift as the entropy does)*
